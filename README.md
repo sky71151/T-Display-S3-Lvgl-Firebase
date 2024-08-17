@@ -2,4 +2,3 @@
 using stream to recieve realtime data 
 
 
-![alt t-display](https://i.imgur.com/M4GEjmn.png)
